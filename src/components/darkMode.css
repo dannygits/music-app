@@ -1,0 +1,68 @@
+.dark {
+  background: #212121;
+  color: #fff;
+}
+
+.dark #navbar {
+  background: url("/icons/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.dark .MuiTabs-scroller {
+  background: url("/icons/background.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.dark div.MuiTabs-root {
+  background: #333;
+}
+
+.dark .main-player-inner {
+  background: #212121;
+}
+
+.dark .RelatedVideoContainer {
+  background: url("/icons/background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: auto;
+  height: calc(100% - 200px);
+  height: 100%;
+  min-height: 470px;
+  /* half of the portion will be taken by player */
+}
+.dark .playlistHeader,
+.dark .mainContainer {
+  background: url("/icons/background.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.dark .MuiTab-textColorPrimary {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.dark .pinkLists > a,
+.dark .pinkLists svg {
+  color: #fff;
+  fill: #fff;
+}
+
+.dark .pinkLists > a {
+  background: #dedede12;
+}
+
+.dark .mediaPlayerContainer {
+  background: #2f2f2f;
+}
+.wholePlayer {
+  background: #607d8b;
+}
+
+.dark .searchPopper {
+  background: #2f2f2f;
+}
